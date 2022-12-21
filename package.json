@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/electrode-io/ern-navigation#readme",
   "dependencies": {
-    "ernnavigation-api": "^1.2.5",
-    "ernnavigation-api-impl-native": "^1.3.18"
+    "ernnavigation-api": "file:.yalc/ernnavigation-api",
+    "ernnavigation-api-impl-native": "file:.yalc/ernnavigation-api-impl-native"
   },
   "peerDependencies": {
     "react": ">=15.0.0",
